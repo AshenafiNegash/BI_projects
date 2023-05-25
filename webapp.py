@@ -18,8 +18,9 @@ def loading_model():
 
 cnn = loading_model()
 st.write("""
-# X-Ray Classification [Pneumonia/Normal]
-by Hardik :)
+# BUSINESS INTELLIGENCE GROUP PROJECT
+# X-Ray IMAGE  Classification [Pneumonia/Normal]
+by SOFTWARE ENGINEERING STUDENTS
 """)
 
 
