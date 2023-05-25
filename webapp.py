@@ -19,8 +19,8 @@ def loading_model():
 cnn = loading_model()
 st.write("""
 # BUSINESS INTELLIGENCE GROUP PROJECT
-# X-Ray IMAGE  Classification [Pneumonia/Normal]
-by SOFTWARE ENGINEERING STUDENTS
+# X-RAY IMAGE  CLASSIFICATION        [Pneumonia/Normal]
+BY SOFTWARE ENGINEERING STUDENTS
 """)
 
 
